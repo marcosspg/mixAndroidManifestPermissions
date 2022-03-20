@@ -1,1 +1,2 @@
-"# mixAndroidManifestPermissions" 
+# mixAndroidManifestPermissions
+Dependencias: lxml, tkinter
